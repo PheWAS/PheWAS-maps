@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rbuildignore
+PheWAS-maps.Rproj
